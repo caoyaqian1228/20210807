@@ -3,9 +3,7 @@
 ## Project setup
 ```
 npm install
-哈哈哈
-vue Demo
-第一次提交
+
 ```
 
 ### Compiles and hot-reloads for development
