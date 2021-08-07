@@ -4,6 +4,7 @@
 ```
 npm install
 哈哈哈
+vue Demo
 ```
 
 ### Compiles and hot-reloads for development
